@@ -15,7 +15,8 @@ Implementirane funkcionalnost:<br>
 3.Selektovanje,menjanje velicine, premestanje i mnoge druge operacije sa objektima<br>
 4.Kopiranje cele stranice i paste-ovanje u drugi dokument<br>
 5.Undo reedo<br>
-6.I jos dosta toga...
+6.Serijalizacija<br>
+7.I jos dosta toga...
 
 ![GIT](https://i.ibb.co/1nndPhv/rudok-Example2.jpg)                                            
 
